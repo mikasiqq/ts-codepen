@@ -1,0 +1,2 @@
+(this["webpackJsonpts-codepen"]=this["webpackJsonpts-codepen"]||[]).push([[187],{363:function(e,a){Prism.languages.hpkp={directive:{pattern:/\b(?:(?:includeSubDomains|preload|strict)(?: |;)|pin-sha256="[a-zA-Z\d+=/]+"|(?:max-age|report-uri)=|report-to )/,alias:"keyword"},safe:{pattern:/\b\d{7,}\b/,alias:"selector"},unsafe:{pattern:/\b\d{1,6}\b/,alias:"function"}}}}]);
+//# sourceMappingURL=187.eac3c7d0.chunk.js.map

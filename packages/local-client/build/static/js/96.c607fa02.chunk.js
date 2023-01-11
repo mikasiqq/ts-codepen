@@ -1,0 +1,2 @@
+(this["webpackJsonpts-codepen"]=this["webpackJsonpts-codepen"]||[]).push([[96],{272:function(n,s){Prism.languages.csv={value:/[^\r\n,"]+|"(?:[^"]|"")*"(?!")/,punctuation:/,/}}}]);
+//# sourceMappingURL=96.c607fa02.chunk.js.map

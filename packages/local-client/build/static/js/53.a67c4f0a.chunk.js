@@ -1,0 +1,2 @@
+(this["webpackJsonpts-codepen"]=this["webpackJsonpts-codepen"]||[]).push([[53],{229:function(e,t){Prism.languages.brainfuck={pointer:{pattern:/<|>/,alias:"keyword"},increment:{pattern:/\+/,alias:"inserted"},decrement:{pattern:/-/,alias:"deleted"},branching:{pattern:/\[|\]/,alias:"important"},operator:/[.,]/,comment:/\S+/}}}]);
+//# sourceMappingURL=53.a67c4f0a.chunk.js.map
