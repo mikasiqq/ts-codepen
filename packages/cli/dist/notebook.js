@@ -1,1 +1,1 @@
-[{"content":"rerwerrerew","type":"code","id":"az0f1"},{"content":"rwerwerw","type":"text","id":"6eygs"}]
+[{"content":"show(<h1>Privet!</h1>)","type":"code","id":"az0f1"},{"content":"# Это привет!","type":"text","id":"6eygs"}]
